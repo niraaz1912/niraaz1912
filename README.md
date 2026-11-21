@@ -1,4 +1,7 @@
 ## Hi there 👋
+<a href="https://niraajojha.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./favicon-dark.svg" alt="Niraaj Ojha Portfolio" width="48" />
+</a>
 
 <!--
 **niraaz1912/niraaz1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
